@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>This groups lives only because of community and by community around Sailfish OS.</source>
-        <translation>这个群组生于社区，服务于Sailfish OS相关的社区。</translation>
+        <translation>这个群组生于社区，服务于旗鱼系统相关的社区。</translation>
     </message>
     <message>
         <source>Version</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Italian speaking community</source>
-        <translation>意大利语系社区</translation>
+        <translation>意大利语社区</translation>
     </message>
 </context>
 <context>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>Attention: If Telegram is blocked in your country, first setup proxy server in settings via PulleyMenu</source>
-        <translation>注意：如果电报在你的国家被墙，请先通过下拉菜单设置代理服务器</translation>
+        <translation>注意：如果电报在你的国家被封锁，请先通过下拉菜单设置代理服务器</translation>
     </message>
 </context>
 <context>
@@ -534,11 +534,11 @@
     </message>
     <message>
         <source>Remove %1 stickers</source>
-        <translation>删除%1贴纸</translation>
+        <translation>删除 %1 贴纸</translation>
     </message>
     <message>
         <source>Add %1 stickers</source>
-        <translation>添加%1贴纸</translation>
+        <translation>添加 %1 贴纸</translation>
     </message>
 </context>
 <context>
@@ -705,7 +705,7 @@
     </message>
     <message>
         <source>Ensure that depecher is running</source>
-        <translation>确保depecher在运行</translation>
+        <translation>确保 depecher 保持运行</translation>
     </message>
     <message>
         <source>Do not close until media is transfered</source>
@@ -880,15 +880,15 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>复制链接</translation>
     </message>
     <message>
         <source>Bio</source>
-        <translation type="unfinished"></translation>
+        <translation>个人简介</translation>
     </message>
 </context>
 <context>
@@ -968,7 +968,7 @@
     </message>
     <message>
         <source>Wait closing</source>
-        <translation>等待关闭中</translation>
+        <translation>正在等待关闭</translation>
     </message>
     <message>
         <source>Wait closed</source>
@@ -976,7 +976,7 @@
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>今天</translation>
     </message>
 </context>
 </TS>
